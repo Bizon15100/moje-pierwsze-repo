@@ -1,4 +1,4 @@
-tutaj zmieniam plik na main branch
+Ostateczne rozwiązanie konfliktu
 # moje-pierwsze-repo
 ## a to moja zmiana do zadania
 moja zmiana w interfejsie Github
